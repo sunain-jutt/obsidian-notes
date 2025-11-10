@@ -1,0 +1,9 @@
+- always start the recon by reviewing the ==**API documentations**== 
+- The input data the API processes, including both compulsory and optional parameters.
+- The types of requests the API accepts, including supported HTTP methods and media formats.
+- Rate limits and authentication mechanisms.
+- ==fuzz== for the range of ==http methods== that can be applied in the api requests.
+- **==Trigger errors==** that displays useful information  [[advantage through errors]]
+- take advantage of ==different processing==  for example if api endpoints are secure for JSON but may be in secure in injectables.
+- modify the ==content-type== in the headers
+- 

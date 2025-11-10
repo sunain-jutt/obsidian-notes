@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "e701e05b21c5d0d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bed35d46da827c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6483a56c02281f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Race conditions/single endpoint race conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "single endpoint race conditions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bbbcee9bf7879db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a42d20ec9241ca40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56aac548790a95d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c48a33af3733882",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d00e988feb4f2e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "75a58680a8961689",
+    "type": "split",
+    "children": [
+      {
+        "id": "4eaa38ae72d1223e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26871897b96279eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "broken access control/IDOR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IDOR"
+            }
+          },
+          {
+            "id": "e833efca3cc741a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "broken access control/IDOR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IDOR"
+            }
+          },
+          {
+            "id": "4ab91893f0c277ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fda70f9692181408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "broken access control/IDOR.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IDOR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b6483a56c02281f2",
+  "lastOpenFiles": [
+    "Race conditions/multi-endpoint race conditions.md",
+    "Race conditions/single endpoint race conditions.md",
+    "LFI/local file include vulnerability.md",
+    "Pasted image 20251110063302.png",
+    "Pasted image 20251110062015.png",
+    "Race conditions/scenarios.md",
+    "Pasted image 20251110061905.png",
+    "Race conditions/predict potential collision.md",
+    "Pasted image 20251110061619.png",
+    "Race conditions/vulnerability.md",
+    "Race conditions/detecting and exploiting limit overrun using repeater.md",
+    "Race conditions/detecting and exploiting limit overrun using turbo intruder.md",
+    "Race conditions/limit overrun race condition.md",
+    "questions.md",
+    "Pasted image 20251110022433.png",
+    "Pasted image 20251110022357.png",
+    "injection/server side template injection/payloads.md",
+    "Race conditions",
+    "injection/server side template injection/SSTI.md",
+    "nmap/flags.md",
+    "API/server side parameter pollution.md",
+    "injection/command injection.md",
+    "JWT tokens/tokens.md",
+    "JWT tokens",
+    "API/tokens.md",
+    "API/enumerations.md",
+    "API/api recon.md",
+    "API/advantage through errors.md",
+    "API/mass assignment vulnerablities.md",
+    "injection/server side template injection/examples.md",
+    "injection/server side template injection",
+    "injection/server side template injection.md",
+    "urls and commands/information.md",
+    "urls and commands/run burpsuite pro command.md",
+    "urls and commands",
+    "injection",
+    "LFI",
+    "csp headers",
+    "mysql",
+    "API",
+    "nmap"
+  ]
+}
