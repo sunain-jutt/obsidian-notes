@@ -25,12 +25,14 @@
             "id": "7ffe2d06303a95be",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "fuzzing/identifications.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "identifications"
             }
           }
         ],
@@ -185,8 +187,15 @@
   "active": "7ffe2d06303a95be",
   "lastOpenFiles": [
     "fuzzing/tools/feroxbuster.md",
-    "fuzzing/tools/api_fuzzer (python script).md",
+    "fuzzing/identifications.md",
     "fuzzing/tools/ffuf.md",
+    "fuzzing/recursive fuzzing.md",
+    "fuzzing/identifications/simple fuzzling.md",
+    "fuzzing/identifications",
+    "fuzzing/tips.md",
+    "fuzzing/commonly used seclists.md",
+    "README.md",
+    "fuzzing/tools/api_fuzzer (python script).md",
     "fuzzing/tools/gobuster.md",
     "fuzzing/tools/wenum.md",
     "fuzzing/tools/Untitled",
@@ -212,19 +221,12 @@
     "Pasted image 20251110022433.png",
     "request methods.md",
     "questions.md",
-    "fuzzing/tips.md",
-    "fuzzing/recursive fuzzing.md",
-    "fuzzing/commonly used seclists.md",
     "fuzzing/recursive fuzzing/define.md",
     "fuzzing/recursive fuzzing",
-    "fuzzing/diff between bruteforce and fuzzing.md",
     "fuzzing/tools",
-    "fuzzing/tools for web fuzzing.md",
-    "CSRF/vulnerability.md",
     "fuzzing",
     "fuzzing",
     "CSRF",
-    "XSS/Untitled",
-    "XSS"
+    "XSS/Untitled"
   ]
 }
