@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Race conditions/single endpoint race conditions.md",
+                "file": "fuzzing/tools/ffuf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "single endpoint race conditions"
+              "title": "ffuf"
+            }
+          },
+          {
+            "id": "7ffe2d06303a95be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,48 +182,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6483a56c02281f2",
+  "active": "7ffe2d06303a95be",
   "lastOpenFiles": [
+    "fuzzing/tools/feroxbuster.md",
+    "fuzzing/tools/api_fuzzer (python script).md",
+    "fuzzing/tools/ffuf.md",
+    "fuzzing/tools/gobuster.md",
+    "fuzzing/tools/wenum.md",
+    "fuzzing/tools/Untitled",
+    "injection/server side template injection/examples.md",
+    "injection/server side template injection/payloads.md",
+    "Race conditions/limit overrun race condition.md",
     "Race conditions/multi-endpoint race conditions.md",
+    "Race conditions/predict potential collision.md",
+    "Race conditions/scenarios.md",
     "Race conditions/single endpoint race conditions.md",
-    "LFI/local file include vulnerability.md",
+    "Race conditions/vulnerability.md",
+    "Race conditions/detecting and exploiting limit overrun using turbo intruder.md",
+    "Race conditions/detecting and exploiting limit overrun using repeater.md",
+    "SSRF/How to identify.md",
+    "status codes/status codes.md",
+    "SSRF",
+    "status codes",
+    "Pasted image 20251110022357.png",
     "Pasted image 20251110063302.png",
     "Pasted image 20251110062015.png",
-    "Race conditions/scenarios.md",
     "Pasted image 20251110061905.png",
-    "Race conditions/predict potential collision.md",
     "Pasted image 20251110061619.png",
-    "Race conditions/vulnerability.md",
-    "Race conditions/detecting and exploiting limit overrun using repeater.md",
-    "Race conditions/detecting and exploiting limit overrun using turbo intruder.md",
-    "Race conditions/limit overrun race condition.md",
-    "questions.md",
     "Pasted image 20251110022433.png",
-    "Pasted image 20251110022357.png",
-    "injection/server side template injection/payloads.md",
-    "Race conditions",
-    "injection/server side template injection/SSTI.md",
-    "nmap/flags.md",
-    "API/server side parameter pollution.md",
-    "injection/command injection.md",
-    "JWT tokens/tokens.md",
-    "JWT tokens",
-    "API/tokens.md",
-    "API/enumerations.md",
-    "API/api recon.md",
-    "API/advantage through errors.md",
-    "API/mass assignment vulnerablities.md",
-    "injection/server side template injection/examples.md",
-    "injection/server side template injection",
-    "injection/server side template injection.md",
-    "urls and commands/information.md",
-    "urls and commands/run burpsuite pro command.md",
-    "urls and commands",
-    "injection",
-    "LFI",
-    "csp headers",
-    "mysql",
-    "API",
-    "nmap"
+    "request methods.md",
+    "questions.md",
+    "fuzzing/tips.md",
+    "fuzzing/recursive fuzzing.md",
+    "fuzzing/commonly used seclists.md",
+    "fuzzing/recursive fuzzing/define.md",
+    "fuzzing/recursive fuzzing",
+    "fuzzing/diff between bruteforce and fuzzing.md",
+    "fuzzing/tools",
+    "fuzzing/tools for web fuzzing.md",
+    "CSRF/vulnerability.md",
+    "fuzzing",
+    "fuzzing",
+    "CSRF",
+    "XSS/Untitled",
+    "XSS"
   ]
 }
