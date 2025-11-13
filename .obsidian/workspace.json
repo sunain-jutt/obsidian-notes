@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obfuscation javascript/decoding.md",
+                "file": "obfuscation javascript/define.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "decoding"
+              "title": "define"
             }
           }
         ],
@@ -186,22 +186,24 @@
   },
   "active": "7ffe2d06303a95be",
   "lastOpenFiles": [
-    "obfuscation javascript/define.md",
     "obfuscation javascript/decoding.md",
+    "obfuscation javascript/define.md",
+    "proxychain/defination.md",
+    "fuzzing/tools/gobuster.md",
+    "fuzzing/tools/feroxbuster.md",
+    "fuzzing/tools/wenum.md",
+    "fuzzing/tips.md",
+    "fuzzing/tools/ffuf.md",
+    "fuzzing/tools/api_fuzzer (python script).md",
+    "proxychain",
     "request methods.md",
     "fuzzing/identifications.md",
     "obfuscation javascript",
-    "fuzzing/tools/feroxbuster.md",
-    "fuzzing/tools/ffuf.md",
     "fuzzing/recursive fuzzing.md",
     "fuzzing/identifications/simple fuzzling.md",
     "fuzzing/identifications",
-    "fuzzing/tips.md",
     "fuzzing/commonly used seclists.md",
     "README.md",
-    "fuzzing/tools/api_fuzzer (python script).md",
-    "fuzzing/tools/gobuster.md",
-    "fuzzing/tools/wenum.md",
     "fuzzing/tools/Untitled",
     "injection/server side template injection/examples.md",
     "injection/server side template injection/payloads.md",
@@ -214,7 +216,6 @@
     "Race conditions/detecting and exploiting limit overrun using turbo intruder.md",
     "Race conditions/detecting and exploiting limit overrun using repeater.md",
     "SSRF/How to identify.md",
-    "status codes/status codes.md",
     "SSRF",
     "status codes",
     "Pasted image 20251110022357.png",
@@ -226,7 +227,6 @@
     "fuzzing/recursive fuzzing",
     "fuzzing/tools",
     "fuzzing",
-    "fuzzing",
-    "CSRF"
+    "fuzzing"
   ]
 }
