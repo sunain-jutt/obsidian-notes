@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuzzing/identifications.md",
+                "file": "sqlmap/errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "identifications"
+              "title": "errors"
             }
           }
         ],
@@ -186,10 +186,13 @@
   },
   "active": "7ffe2d06303a95be",
   "lastOpenFiles": [
+    "sqlmap/cheatsheet.md",
+    "sqlmap/errors.md",
+    "sqlmap/overwiew.md",
+    "fuzzing/identifications.md",
     "fuzzing/recursive fuzzing.md",
     "mysql/mysql client usage.md",
     "CLOUD/Import notes.md",
-    "sqlmap/overwiew.md",
     "CLOUD",
     "important notes for cloud",
     "request methods.md",
@@ -215,11 +218,8 @@
     "fuzzing/tools/wenum.md",
     "fuzzing/tips.md",
     "fuzzing/tools/ffuf.md",
-    "fuzzing/tools/api_fuzzer (python script).md",
     "proxychain",
-    "fuzzing/identifications.md",
     "obfuscation javascript",
-    "fuzzing/identifications/simple fuzzling.md",
     "fuzzing/identifications",
     "fuzzing/tools/Untitled",
     "Pasted image 20251110022357.png",
