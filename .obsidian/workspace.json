@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sqlmap/errors.md",
+                "file": "PENTESTING-LEARNINGS/CloudFlare (WAF).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "errors"
+              "title": "CloudFlare (WAF)"
             }
           }
         ],
@@ -186,6 +186,12 @@
   },
   "active": "7ffe2d06303a95be",
   "lastOpenFiles": [
+    "status codes/status codes.md",
+    "PENTESTING-LEARNINGS/CloudFlare (WAF).md",
+    "PENTESTING-LEARNINGS",
+    "request methods.md",
+    "fuzzing/tools/feroxbuster.md",
+    "fuzzing/tools/api_fuzzer (python script).md",
     "sqlmap/cheatsheet.md",
     "sqlmap/errors.md",
     "sqlmap/overwiew.md",
@@ -195,7 +201,6 @@
     "CLOUD/Import notes.md",
     "CLOUD",
     "important notes for cloud",
-    "request methods.md",
     "sqlmap",
     "ports services.md",
     "README.md",
@@ -214,14 +219,9 @@
     "obfuscation javascript/decoding.md",
     "proxychain/defination.md",
     "fuzzing/tools/gobuster.md",
-    "fuzzing/tools/feroxbuster.md",
-    "fuzzing/tools/wenum.md",
-    "fuzzing/tips.md",
-    "fuzzing/tools/ffuf.md",
     "proxychain",
     "obfuscation javascript",
     "fuzzing/identifications",
-    "fuzzing/tools/Untitled",
     "Pasted image 20251110022357.png",
     "Pasted image 20251110063302.png",
     "Pasted image 20251110062015.png",
